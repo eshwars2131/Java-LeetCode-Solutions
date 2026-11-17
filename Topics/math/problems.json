@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-17T14:50:59.059Z",
+  "updatedAt": "2026-11-17T14:51:20.957Z",
   "problems": [
     {
       "frontendId": "66",
@@ -84,6 +84,26 @@
           "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.java",
           "sha": "9a36eaf72f06c7b54e3fafdd6c0ed3bc5b3e4ecd",
           "lastSyncedAt": "2026-11-17T14:49:39.415Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "problemName": "1342-number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+      "folderPath": "1342-number-of-steps-to-reduce-a-number-to-zero/",
+      "readmePath": "1342-number-of-steps-to-reduce-a-number-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.java",
+          "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.java",
+          "sha": "eb828ceac794cce20628813cfa5524cb2ff6665a",
+          "lastSyncedAt": "2026-11-17T14:51:20.957Z"
         }
       ]
     },
