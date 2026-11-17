@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-17T14:50:53.367Z",
+  "updatedAt": "2026-11-17T14:50:59.059Z",
   "problems": [
     {
       "frontendId": "66",
@@ -104,6 +104,26 @@
           "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.java",
           "sha": "5c7a756e4915cf96d08c18331a7cf2d6790c6d8a",
           "lastSyncedAt": "2026-11-17T14:49:24.749Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2427",
+      "title": "Number of Common Factors",
+      "slug": "number-of-common-factors",
+      "problemName": "2427-number-of-common-factors",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-common-factors/",
+      "folderPath": "2427-number-of-common-factors/",
+      "readmePath": "2427-number-of-common-factors/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2427-number-of-common-factors.java",
+          "path": "2427-number-of-common-factors/2427-number-of-common-factors.java",
+          "sha": "6f6bacb8dd24f31c7a126704aa3dd865095dc023",
+          "lastSyncedAt": "2026-11-17T14:50:59.059Z"
         }
       ]
     }
