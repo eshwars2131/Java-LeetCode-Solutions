@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-17T14:50:29.586Z",
+  "updatedAt": "2026-11-17T14:50:36.778Z",
   "problems": [
     {
       "frontendId": "14",
@@ -44,6 +44,26 @@
           "path": "0058-length-of-last-word/0058-length-of-last-word.java",
           "sha": "9ec23207e55b745674b8d0bdf9f0bd2c2ad9b5a1",
           "lastSyncedAt": "2026-11-17T14:50:23.968Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0067-add-binary.java",
+          "path": "0067-add-binary/0067-add-binary.java",
+          "sha": "0108b725e16df9d5d7572e1cb0ec1091da1f69fd",
+          "lastSyncedAt": "2026-11-17T14:50:36.778Z"
         }
       ]
     },
