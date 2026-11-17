@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-17T14:50:36.778Z",
+  "updatedAt": "2026-11-17T14:50:53.367Z",
   "problems": [
     {
       "frontendId": "66",
@@ -44,6 +44,26 @@
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "0108b725e16df9d5d7572e1cb0ec1091da1f69fd",
           "lastSyncedAt": "2026-11-17T14:50:36.778Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "728",
+      "title": "Self Dividing Numbers",
+      "slug": "self-dividing-numbers",
+      "problemName": "0728-self-dividing-numbers",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/self-dividing-numbers/",
+      "folderPath": "0728-self-dividing-numbers/",
+      "readmePath": "0728-self-dividing-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0728-self-dividing-numbers.java",
+          "path": "0728-self-dividing-numbers/0728-self-dividing-numbers.java",
+          "sha": "e75c596823e4af3e9325e4cb715f0be86e4054d6",
+          "lastSyncedAt": "2026-11-17T14:50:53.367Z"
         }
       ]
     },
