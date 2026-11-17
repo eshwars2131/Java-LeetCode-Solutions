@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-17T14:51:20.957Z",
+  "updatedAt": "2026-11-17T14:51:34.019Z",
   "problems": [
     {
       "frontendId": "67",
@@ -24,6 +24,26 @@
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "0108b725e16df9d5d7572e1cb0ec1091da1f69fd",
           "lastSyncedAt": "2026-11-17T14:50:36.778Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "191",
+      "title": "Number of 1 Bits",
+      "slug": "number-of-1-bits",
+      "problemName": "0191-number-of-1-bits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-1-bits/",
+      "folderPath": "0191-number-of-1-bits/",
+      "readmePath": "0191-number-of-1-bits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0191-number-of-1-bits.java",
+          "path": "0191-number-of-1-bits/0191-number-of-1-bits.java",
+          "sha": "e0178915617f88f51762fe4219b7f58a2c53a7c5",
+          "lastSyncedAt": "2026-11-17T14:51:34.019Z"
         }
       ]
     },
