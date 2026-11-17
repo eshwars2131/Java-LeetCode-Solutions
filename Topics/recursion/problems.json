@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "recursion",
+    "name": "Recursion",
+    "tagId": "31"
+  },
+  "updatedAt": "2026-11-17T14:52:08.247Z",
+  "problems": [
+    {
+      "frontendId": "50",
+      "title": "Pow(x, n)",
+      "slug": "powx-n",
+      "problemName": "0050-powx-n",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/powx-n/",
+      "folderPath": "0050-powx-n/",
+      "readmePath": "0050-powx-n/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0050-powx-n.java",
+          "path": "0050-powx-n/0050-powx-n.java",
+          "sha": "44709dc50bb0fdb13b26d42360f3dac089f748fc",
+          "lastSyncedAt": "2026-11-17T14:52:08.247Z"
+        }
+      ]
+    }
+  ]
+}
