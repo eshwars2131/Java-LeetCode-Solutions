@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-17T14:50:13.396Z",
+  "updatedAt": "2026-11-17T14:50:23.968Z",
   "problems": [
     {
       "frontendId": "14",
@@ -24,6 +24,26 @@
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "04984e8b4bb5a88cf0657e7eba94c3a1ad2f568e",
           "lastSyncedAt": "2026-11-17T14:50:13.396Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "problemName": "0058-length-of-last-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/length-of-last-word/",
+      "folderPath": "0058-length-of-last-word/",
+      "readmePath": "0058-length-of-last-word/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0058-length-of-last-word.java",
+          "path": "0058-length-of-last-word/0058-length-of-last-word.java",
+          "sha": "9ec23207e55b745674b8d0bdf9f0bd2c2ad9b5a1",
+          "lastSyncedAt": "2026-11-17T14:50:23.968Z"
         }
       ]
     },
