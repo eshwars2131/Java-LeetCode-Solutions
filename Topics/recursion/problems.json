@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-17T14:52:08.247Z",
+  "updatedAt": "2026-11-17T14:52:53.457Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "0002-add-two-numbers/",
+      "readmePath": "0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0002-add-two-numbers.py",
+          "path": "0002-add-two-numbers/0002-add-two-numbers.py",
+          "sha": "2bd6883cf78a6b23bad3d7ac72fd3f053697e0ec",
+          "lastSyncedAt": "2026-11-17T14:52:53.457Z"
+        }
+      ]
+    },
     {
       "frontendId": "50",
       "title": "Pow(x, n)",
