@@ -5,30 +5,62 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 1 | 1 | 0 | 0 |
+| 27 | 21 | 5 | 1 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 1 |
+| 0 days | 5 days | 8 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-11-17 | 1 |
+| 2026-10-16 | 1 |
+| 2026-10-17 | 1 |
+| 2026-10-18 | 1 |
+| 2026-10-19 | 1 |
+| 2026-10-20 | 1 |
+| 2026-11-07 | 2 |
+| 2026-11-14 | 1 |
+| 2026-11-15 | 19 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 1 | 100% |
-| Math | 1 | 100% |
+| Math | 15 | 56% |
+| Array | 10 | 37% |
+| String | 7 | 26% |
+| Bit Manipulation | 4 | 15% |
+| Hash Table | 3 | 11% |
+| Simulation | 3 | 11% |
+| Two Pointers | 3 | 11% |
+| Divide and Conquer | 2 | 7% |
+| Number Theory | 2 | 7% |
+| Recursion | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 1 |
-| [Math](Topics/math/) | 1 |
-| [String](Topics/string/) | 0 |
+| [Array](Topics/array/) | 10 |
+| [Binary Search](Topics/binary-search/) | 1 |
+| [Bit Manipulation](Topics/bit-manipulation/) | 4 |
+| [Counting](Topics/counting/) | 1 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Enumeration](Topics/enumeration/) | 1 |
+| [Euclidean Algorithm](Topics/euclidean-algorithm/) | 1 |
+| [Greatest Common Divisor](Topics/greatest-common-divisor/) | 1 |
+| [Hash Table](Topics/hash-table/) | 3 |
+| [Linked List](Topics/linked-list/) | 1 |
+| [Math](Topics/math/) | 15 |
+| [Matrix](Topics/matrix/) | 1 |
+| [Number Theory](Topics/number-theory/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
+| [Simulation](Topics/simulation/) | 3 |
+| [Sliding Window](Topics/sliding-window/) | 1 |
+| [String](Topics/string/) | 7 |
+| [Trie](Topics/trie/) | 1 |
+| [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
