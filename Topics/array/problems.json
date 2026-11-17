@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T14:49:19.670Z",
+  "updatedAt": "2026-11-17T14:49:24.749Z",
   "problems": [
     {
       "frontendId": "66",
@@ -64,6 +64,26 @@
           "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.java",
           "sha": "66c5c652d7d8d447e9093907a3cf964acbd1f0e4",
           "lastSyncedAt": "2026-11-17T14:49:19.670Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1512-number-of-good-pairs.java",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.java",
+          "sha": "5c7a756e4915cf96d08c18331a7cf2d6790c6d8a",
+          "lastSyncedAt": "2026-11-17T14:49:24.749Z"
         }
       ]
     }
