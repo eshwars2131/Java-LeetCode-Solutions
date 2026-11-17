@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-17T14:49:24.749Z",
+  "updatedAt": "2026-11-17T14:49:39.415Z",
   "problems": [
     {
       "frontendId": "66",
@@ -44,6 +44,26 @@
           "path": "0283-move-zeroes/0283-move-zeroes.java",
           "sha": "78e6a063d17de7df589a28d2845a596035584d30",
           "lastSyncedAt": "2026-11-17T14:49:10.801Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1295",
+      "title": "Find Numbers with Even Number of Digits",
+      "slug": "find-numbers-with-even-number-of-digits",
+      "problemName": "1295-find-numbers-with-even-number-of-digits",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/",
+      "folderPath": "1295-find-numbers-with-even-number-of-digits/",
+      "readmePath": "1295-find-numbers-with-even-number-of-digits/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1295-find-numbers-with-even-number-of-digits.java",
+          "path": "1295-find-numbers-with-even-number-of-digits/1295-find-numbers-with-even-number-of-digits.java",
+          "sha": "9a36eaf72f06c7b54e3fafdd6c0ed3bc5b3e4ecd",
+          "lastSyncedAt": "2026-11-17T14:49:39.415Z"
         }
       ]
     },
