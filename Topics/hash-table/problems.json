@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-17T14:49:24.749Z",
+  "updatedAt": "2026-11-17T14:52:42.266Z",
   "problems": [
+    {
+      "frontendId": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "problemName": "0003-longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "folderPath": "0003-longest-substring-without-repeating-characters/",
+      "readmePath": "0003-longest-substring-without-repeating-characters/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0003-longest-substring-without-repeating-characters.py",
+          "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
+          "sha": "d672fe537912eddf9543167dfa21034f02d58218",
+          "lastSyncedAt": "2026-11-17T14:52:42.266Z"
+        }
+      ]
+    },
     {
       "frontendId": "1512",
       "title": "Number of Good Pairs",
