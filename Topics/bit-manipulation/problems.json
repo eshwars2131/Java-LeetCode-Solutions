@@ -5,7 +5,7 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-17T14:50:36.778Z",
+  "updatedAt": "2026-11-17T14:51:20.957Z",
   "problems": [
     {
       "frontendId": "67",
@@ -24,6 +24,26 @@
           "path": "0067-add-binary/0067-add-binary.java",
           "sha": "0108b725e16df9d5d7572e1cb0ec1091da1f69fd",
           "lastSyncedAt": "2026-11-17T14:50:36.778Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1342",
+      "title": "Number of Steps to Reduce a Number to Zero",
+      "slug": "number-of-steps-to-reduce-a-number-to-zero",
+      "problemName": "1342-number-of-steps-to-reduce-a-number-to-zero",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/",
+      "folderPath": "1342-number-of-steps-to-reduce-a-number-to-zero/",
+      "readmePath": "1342-number-of-steps-to-reduce-a-number-to-zero/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.java",
+          "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.java",
+          "sha": "eb828ceac794cce20628813cfa5524cb2ff6665a",
+          "lastSyncedAt": "2026-11-17T14:51:20.957Z"
         }
       ]
     }
