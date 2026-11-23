@@ -106,6 +106,7 @@ Contains topicwise list of solved problems.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -145,6 +146,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0455-assign-cookies](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Counting Sort
 |  |
