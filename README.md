@@ -95,5 +95,6 @@ Contains topicwise list of solved problems.
 ## Array
 |  |
 | ------- |
+| [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
