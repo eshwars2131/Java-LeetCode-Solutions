@@ -83,6 +83,7 @@ Contains topicwise list of solved problems.
 | [1108-defanging-an-ip-address](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1773-count-items-matching-a-rule](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2000-reverse-prefix-of-word](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Two Pointers
@@ -112,6 +113,7 @@ Contains topicwise list of solved problems.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
