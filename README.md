@@ -97,6 +97,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1732-find-the-highest-altitude](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -104,4 +105,8 @@ Contains topicwise list of solved problems.
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
