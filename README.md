@@ -79,6 +79,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2000-reverse-prefix-of-word](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Two Pointers
 |  |
@@ -88,4 +89,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+## Array
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
