@@ -111,6 +111,7 @@ Contains topicwise list of solved problems.
 | [0867-transpose-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -138,6 +139,7 @@ Contains topicwise list of solved problems.
 ## Hash Table
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Dynamic Programming
 |  |
@@ -161,6 +163,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0455-assign-cookies](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -168,6 +171,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bubble Sort
 |  |
 | ------- |
