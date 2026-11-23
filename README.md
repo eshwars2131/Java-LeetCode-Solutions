@@ -75,6 +75,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
