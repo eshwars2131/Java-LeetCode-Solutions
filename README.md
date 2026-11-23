@@ -109,6 +109,7 @@ Contains topicwise list of solved problems.
 | [0744-find-smallest-letter-greater-than-target](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -152,6 +153,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
@@ -182,6 +184,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
