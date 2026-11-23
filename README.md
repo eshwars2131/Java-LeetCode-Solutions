@@ -64,3 +64,15 @@ Contains topicwise list of solved problems.
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+<!---LeetCode Topics End-->
