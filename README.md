@@ -107,6 +107,7 @@ Contains topicwise list of solved problems.
 | [0455-assign-cookies](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [0724-find-pivot-index](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0867-transpose-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1051-height-checker](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -122,6 +123,7 @@ Contains topicwise list of solved problems.
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -177,4 +179,5 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0867-transpose-matrix](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
