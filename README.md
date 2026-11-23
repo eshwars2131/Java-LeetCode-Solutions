@@ -95,6 +95,7 @@ Contains topicwise list of solved problems.
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -108,5 +109,6 @@ Contains topicwise list of solved problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
