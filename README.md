@@ -101,6 +101,7 @@ Contains topicwise list of solved problems.
 | [0053-maximum-subarray](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1732-find-the-highest-altitude](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
@@ -131,4 +132,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
