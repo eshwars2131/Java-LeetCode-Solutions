@@ -103,6 +103,7 @@ Contains topicwise list of solved problems.
 | [1732-find-the-highest-altitude](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1920-build-array-from-permutation](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
@@ -113,4 +114,8 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0724-find-pivot-index](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1732-find-the-highest-altitude) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
