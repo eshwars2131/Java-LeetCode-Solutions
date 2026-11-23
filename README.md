@@ -90,6 +90,7 @@ Contains topicwise list of solved problems.
 | ------- |
 | [0027-remove-element](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2000-reverse-prefix-of-word](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Stack
 |  |
@@ -105,6 +106,7 @@ Contains topicwise list of solved problems.
 | [0724-find-pivot-index](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1051-height-checker](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -141,11 +143,13 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0455-assign-cookies) |
 | [1051-height-checker](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1051-height-checker) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Counting Sort
