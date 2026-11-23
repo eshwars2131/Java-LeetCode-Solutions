@@ -98,6 +98,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0724-find-pivot-index](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1470-shuffle-the-array](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -120,4 +121,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [2215-find-the-difference-of-two-arrays](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
