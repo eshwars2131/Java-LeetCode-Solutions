@@ -75,4 +75,8 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
