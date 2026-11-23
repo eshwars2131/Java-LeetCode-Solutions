@@ -79,6 +79,7 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [1108-defanging-an-ip-address](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [2000-reverse-prefix-of-word](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
