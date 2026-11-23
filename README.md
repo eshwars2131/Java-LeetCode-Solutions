@@ -79,4 +79,13 @@ Contains topicwise list of solved problems.
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [2000-reverse-prefix-of-word](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+## Two Pointers
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/eshwars2131/Java-LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
